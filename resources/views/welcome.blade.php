@@ -297,7 +297,7 @@
                                   <p>
                                     Memastikan bibit ayam yang di terima
                                     sampai dengan selamat.</p>
-                                  <h4>Artikel/ Blog</h4>
+                                  <h4>Artikel / Blog</h4>
                                   <p>
                                     Menyediakan layanan informasi seputar bibit ternak yang
                                     baik.</p>
