@@ -27,10 +27,6 @@
   <link rel="stylesheet" href="{{asset('css')}}/owl.css">
   <!--
 
-TemplateMo 568 DigiMedia
-
-https://templatemo.com/tm-568-digimedia
-
 -->
 </head>
 
